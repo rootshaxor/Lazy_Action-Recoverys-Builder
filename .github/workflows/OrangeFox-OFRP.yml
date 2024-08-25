@@ -23,7 +23,7 @@ on:
       DEVICE_TREE_BRANCH:
         description: 'Custom Recovery Tree Branch'
         required: true
-        default: 'android-14_ofrp'
+        default: 'main'
       BUILD_TARGET:
         description: 'Specify your Build Target'
         required: true
